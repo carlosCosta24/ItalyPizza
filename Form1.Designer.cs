@@ -175,9 +175,9 @@
             this.IbCost.Location = new System.Drawing.Point(933, 277);
             this.IbCost.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.IbCost.Name = "IbCost";
-            this.IbCost.Size = new System.Drawing.Size(117, 55);
+            this.IbCost.Size = new System.Drawing.Size(168, 69);
             this.IbCost.TabIndex = 10;
-            this.IbCost.Text = " 20$";
+            this.IbCost.Text = " 20 $";
             this.IbCost.Click += new System.EventHandler(this.lbCost_Click);
             // 
             // btnOrder
@@ -328,9 +328,9 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(199, 89);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(37, 20);
+            this.label5.Size = new System.Drawing.Size(124, 25);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Loc";
+            this.label5.Text = "Location: IN";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label6
