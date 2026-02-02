@@ -98,6 +98,14 @@ namespace ItalyPizza
             RdbThin.Checked = true;
             Rdb6.Checked = true;
             LbTopping.Text = "No Topping";
+
+            ChkB1.Checked = false;
+            ChkB2.Checked = false;
+            ChkB3.Checked = false;
+            ChkB4.Checked = false;
+            ChkB5.Checked = false;
+            ChkB6.Checked = false;
+
         }
         void UpdateToppings() {
 

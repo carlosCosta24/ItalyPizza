@@ -269,7 +269,7 @@
             // 
             this.ChkB1.AutoSize = true;
             this.ChkB1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ChkB1.Location = new System.Drawing.Point(24, 37);
+            this.ChkB1.Location = new System.Drawing.Point(25, 37);
             this.ChkB1.Name = "ChkB1";
             this.ChkB1.Size = new System.Drawing.Size(123, 24);
             this.ChkB1.TabIndex = 0;
